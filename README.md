@@ -6,4 +6,4 @@ Here is [Another Version of This Project](https://github.com/ShayanTheNerd/Budge
 
 In case you're intereseted, feel free to take a look at the source code at [SourceCode Branch](https://github.com/ShayanTheNerd/Budgetly-Vue2-Options-API/tree/SourceCode) and give it an update.
 
-Also Check out [My Website](https://shayan-zamani.me) and [Github Repositories](https://github.com/ShayanTheNerd?tab=repositories) for other cool projects.
+Also check out [My Website](https://shayan-zamani.me) and [Github Repositories](https://github.com/ShayanTheNerd?tab=repositories) for other cool projects.
